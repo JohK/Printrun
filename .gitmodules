@@ -1,0 +1,3 @@
+[submodule "tatlin"]
+	path = tatlin
+	url = ssh://git@github.com/JohK/tatlin
